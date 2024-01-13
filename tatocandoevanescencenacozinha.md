@@ -50,4 +50,4 @@
 #### assisti bbb
  - to assistind oaidna
 
-[ps:](https://github.com/w-aninha/lsit/assets/156543666/b192f279-b6f1-4fe2-9c06-988a2c8ba823)
+![ps:](https://github.com/w-aninha/lsit/assets/156543666/b192f279-b6f1-4fe2-9c06-988a2c8ba823)
