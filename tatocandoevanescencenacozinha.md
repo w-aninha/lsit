@@ -50,4 +50,5 @@
 #### assisti bbb
  - to assistind oaidna
 
-![ps:](https://github.com/w-aninha/lsit/assets/156543666/b192f279-b6f1-4fe2-9c06-988a2c8ba823)
+<sub>ps:</sub>
+![cat-lick-smaller](https://github.com/w-aninha/lsit/assets/156543666/ed7bdc8c-9466-4c5c-8069-097fcba91ba3)
