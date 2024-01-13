@@ -49,3 +49,5 @@
 
 #### assisti bbb
  - to assistind oaidna
+
+> ps: https://github.com/w-aninha/lsit/issues/1#issue-2080459277
