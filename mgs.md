@@ -12,5 +12,4 @@
 
 
 
-
 ![look-up](https://github.com/w-aninha/lsit/assets/156543666/d29852a8-9c6d-45a8-b23c-a66126be0463)
