@@ -5,7 +5,7 @@
 
 ### desinstalacao doq vc tem atualmente (nao se preocupa, vc nn vai perder seu stardewzinho)
 - abre o gerenciador de arquivos
-  - dentro do gerenciador, vc vai apagar as pastas: *com.chucklefish.stardewvalley* (esta da em data, q ta dentro de android),
+  - dentro do gerenciador, vc vai apagar as pastas: *com.chucklefish.stardewvalley* (esta pasta ta em data, q ta dentro de android),
 						    *StardewValley* (armazenamento interno),
 						    *smapi-installer-3.18.3.3* (aquela pasta q tem o base.apk dentro) ou quisuqer pastas q tenham smapi ou stardew valley no titulo
   - depois que tiver desinstalado essas pastas, vc vai desinstalar os aplicativos PELO GERENCIADOR DE ARQUIVOS MESMO. vc vai na aba de aplicativos do seu gerenciador de arquivos e vai procurar pelos tres aplicativos: Stardew Valley, Instalador Smapi e SMAPI Stardew Valley (esse ultimo eu acho q vc nao tem). desinstala todos.
