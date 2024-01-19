@@ -1,7 +1,7 @@
 ## documento pra vc abrir caso vc queira tentar instalar o stardew <br><sub>sao so 3 passos q nao demoram quase nada para de se fazer de dificil</sub><br>
 
 <sub>ps.1: eu fiz isso umas 3 vezes em 2 celulares diferentes pra ver se tava dando tudo certo ebaaaa</sub><br>
-<sub>ps.2: incentivo: vc vai ganhar o stardew valley original de graca</sub>
+<sub>ps.2: incentivo: vc vai ganhar o stardew valley original de graca 😏</sub>
 
 ### desinstalacao doq vc tem atualmente (nao se preocupa, vc nn vai perder seu stardewzinho)
 - abre o gerenciador de arquivos
