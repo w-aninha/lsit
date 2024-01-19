@@ -2,6 +2,7 @@
 
 <sub>ps.1: eu fiz isso umas 3 vezes em 2 celulares diferentes pra ver se tava dando tudo certo ebaaaa</sub><br>
 <sub>ps.2: incentivo: vc vai ganhar o stardew valley original de graca 😏</sub>
+<sub>ps.3: se qualquer coisa nn der certo, manda msg no dc falano "aninha nao deu certo isso aq ó😞😞" e ai eu respondo mais tarde com a solucao</sub>
 
 ### desinstalacao doq vc tem atualmente (nao se preocupa, vc nn vai perder seu stardewzinho)
 - abre o gerenciador de arquivos
@@ -45,5 +46,5 @@
   - dps vc vai no smapi, vai em coop, e vai em "host"
   - nisso, a tela de criacao do personagem vai abrir e vc vai conseguir jogar ebaaaa
  
-<sub>ps.3: nao fiquei chateada de vdd, so queria q vc se sentisse culpada msm. para de agir estranho. vc fica meio abublé das ideia como se fosse a 1a vez q tivesse te ouvido falar absurdos</sub><br>
-<sub>ps.4: vamo ve mod que deixa o jogo bonitinho tambem pra colocar, tem mod de cabelo, tem mod de bebe, tem mod de cavalo</sub>
+<sub>ps.4: nao fiquei chateada de vdd, so queria q vc se sentisse culpada msm. para de agir estranho. vc fica meio abublé das ideia como se fosse a 1a vez q tivesse te ouvido falar absurdos</sub><br>
+<sub>ps.5: vamo ve mod que deixa o jogo bonitinho tambem pra colocar, tem mod de cabelo, tem mod de bebe, tem mod de cavalo</sub>
