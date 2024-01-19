@@ -1,9 +1,11 @@
-## documento pra vc abrir caso vc queira tentar instalar o stardew <br><sub>sao so 3 passos q nao demoram quase nada para de se fazer de dificil</sub>
+## documento pra vc abrir caso vc queira tentar instalar o stardew <br><sub>sao so 3 passos q nao demoram quase nada para de se fazer de dificil</sub><br>
+
+<sub>eu fiz isso umas 3 vezes em 2 celulares diferentes pra ver se tava dando tudo certo ebaaaa</sub>
 
 ### desinstalacao doq vc tem atualmente (nao se preocupa, vc nn vai perder seu stardewzinho)
 - abre o gerenciador de arquivos
-  - dentro do gerenciador, vc vai apagar as pastas: *com.chucklefish.stardewvalley* (esta da em data, q ta dentro de android)
-						    *StardewValley* (armazenamento interno)
+  - dentro do gerenciador, vc vai apagar as pastas: *com.chucklefish.stardewvalley* (esta da em data, q ta dentro de android),
+						    *StardewValley* (armazenamento interno),
 						    *smapi-installer-3.18.3.3* (aquela pasta q tem o base.apk dentro) ou quisuqer pastas q tenham smapi ou stardew valley no titulo
   - depois que tiver desinstalado essas pastas, vc vai desinstalar os aplicativos PELO GERENCIADOR DE ARQUIVOS MESMO. vc vai na aba de aplicativos do seu gerenciador de arquivos e vai procurar pelos tres aplicativos: Stardew Valley, Instalador Smapi e SMAPI Stardew Valley (esse ultimo eu acho q vc nao tem). desinstala todos.
 
@@ -41,3 +43,5 @@
   - no aplicativo do zerotier no seu celular vc vai em add network e vai colar o network id onde pede pra colocar... o network id e vai clicar em add
   - dps vc vai no smapi, vai em coop, e vai em "host"
   - nisso, a tela de criacao do personagem vai abrir e vc vai conseguir jogar ebaaaa
+ 
+<sub>ps.: nao fiquei chateada de vdd, so queria q vc se sentisse culpada msm. para de agir estranho. vc fica meio abublé das ideia como se fosse a 1a vez q tivesse te ouvido falar absurdos</sub>
