@@ -4,7 +4,7 @@
 <sub>ps.2: incentivo: vc vai ganhar o stardew valley original de graca 😏</sub><br>
 <sub>ps.3: se qualquer coisa nn der certo, manda msg no dc falano "aninha nao deu certo isso aq ó😞😞" e ai eu respondo mais tarde com a solucao</sub>
 
-### desinstalacao doq vc tem atualmente (nao se preocupa, vc nn vai perder seu stardewzinho)<br>
+### desinstalacao doq vc tem atualmente (nao se preocupa, vc nn vai perder seu stardewzinho)
 #### lembra de salvar seus saves!!
 - abre o gerenciador de arquivos
   - dentro do gerenciador, vc vai apagar as pastas: *com.chucklefish.stardewvalley* (esta pasta ta em *data*, q ta dentro de *android*),
